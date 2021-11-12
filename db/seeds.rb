@@ -8,10 +8,10 @@
 
 Greeting.create(
   [
-    {message: "Hello"},
-    {message: "Hi"},
-    {message: "Good Morning"},
-    {message: "Good Evening"},
-    {message: "Good Night"}
+    { message: "Hello" },
+    { message: "Hi" },
+    { message: "Good Morning" },
+    { message: "Good Evening" },
+    { message: "Good Night" }
   ]
 )
