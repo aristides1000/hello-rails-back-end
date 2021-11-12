@@ -10,8 +10,6 @@
 ## Front Live Demo
 
 [React Repository Link](https://github.com/aristides1000/hello-react-front-end)
-[Front Live Demo Link](https://tender-brahmagupta-a72215.netlify.app/)
-
 
 ## Getting Started
 
